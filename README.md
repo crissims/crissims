@@ -25,5 +25,5 @@ Meu nome é Cristiane Martins, sou uma desenvolvedora Front-end com amplo conhec
 ## Interactions
 
 <div width="100%">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crissims&layout=compact&langs_count=10&theme=dark" width="49.75%"/>
+    <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crissims&layout=compact&langs_count=10&theme=dark" width="49.75%"/>
 </div>
